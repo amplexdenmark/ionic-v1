@@ -16,7 +16,7 @@ Package.onUse(function(api) {
   api.use('angular:angular@1.8.2', where);
   api.use('angular:angular-animate@1.8.2', where);
   api.use('angular:angular-sanitize@1.8.2', where);
-  api.use('angularui:angular-ui-router@0.2.13_3', where);
+  api.use('angularui:angular-ui-router@0.4.3', where);
 
   // In case the Meteor project has the `fastclick` package,
   // Load it first and cancel it (to use Ionic's one)
